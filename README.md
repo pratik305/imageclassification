@@ -37,7 +37,7 @@ The user-friendly interface allows for easy image selection from either the devi
 - The pre-trained models used in this app are provided by [VGG-16](https://www.tensorflow.org/api_docs/python/tf/keras/applications/vgg16/VGG16).
 
 ## Screenshort
-![Alt Text](images/1.jpg)
+![RESULT](Result/1.jpg)
 
 
  
