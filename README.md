@@ -38,6 +38,8 @@ The user-friendly interface allows for easy image selection from either the devi
 
 ## Screenshort
 ![RESULT](Result/1.jpg)
+![RESULT](Result/2.jpg)
+![RESULT](Result/3.jpg)
 
 
  
